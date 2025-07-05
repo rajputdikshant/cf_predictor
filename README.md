@@ -84,7 +84,7 @@ Predictions are mapped to Codeforces ranks:
    ```
 
 4. **Access the application**
-   Open your browser and go to `[Link](https://cf-predictor-ihjl.onrender.com/)`
+   Open your browser and go to `https://cf-predictor-ihjl.onrender.com/`
 
 ## 📦 Dependencies
 

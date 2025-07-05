@@ -84,7 +84,7 @@ Predictions are mapped to Codeforces ranks:
    ```
 
 4. **Access the application**
-   Open your browser and go to `http://localhost:5000`
+   Open your browser and go to `[Link](https://cf-predictor-ihjl.onrender.com/)`
 
 ## 📦 Dependencies
 
@@ -177,20 +177,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
 
-- **Codeforces**: For providing the API and competitive programming platform
-- **XGBoost**: For the powerful machine learning framework
-- **Flask**: For the lightweight web framework
-- **Bootstrap**: For the beautiful UI components
-- **Chart.js**: For the interactive data visualizations
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the existing issues in the repository
-2. Create a new issue with detailed information
-3. Include your Codeforces handle and the error message
 
 ---
 
